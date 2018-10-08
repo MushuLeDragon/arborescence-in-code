@@ -16,4 +16,26 @@
 | |
 | |\images
 | | |\image.png
+
+└
+├ index.html
+├ src
+│├ css
+││├ style.css
+│├ font
+││├ arial.ttf
+││├ timenewroman.ttf
+│├ images
+││├ image.png
+
+
+└ index.html
+└ src
+│└ css
+││└ style.css
+│└ font
+││└ arial.ttf
+││└ timenewroman.ttf
+│└ images
+││└ image.png
 ```
