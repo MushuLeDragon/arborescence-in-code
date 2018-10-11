@@ -39,3 +39,30 @@
 │└ images
 ││└ image.png
 ```
+
+## Gasto
+
+```
+|\index.html
+|
+|\app
+|\bootstrap
+|\config
+|\public
+|\resources
+|\routes
+|\vendor
+| |
+| |
+| |
+| |
+| |\css
+| | |\style.css
+| |
+| |\font
+| | |\arial.ttf
+| | |\timenewroman.ttf
+| |
+| |\images
+| | |\image.png
+```
