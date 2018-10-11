@@ -46,10 +46,15 @@
 |\index.html
 |
 |\app
+| |\Controllers
+| | |\style.php
+| | |\style.php
 |\bootstrap
 |\config
 |\public
 |\resources
+| |\cache
+| |\views
 |\routes
 |\vendor
 | |
